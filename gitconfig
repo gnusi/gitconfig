@@ -1,6 +1,6 @@
 [user]
     name = "Andrey Abramov"
-    email = andrey.abramov@emc.com
+    email = andrey@arangodb.com
 
 [core]
     editor = vim
